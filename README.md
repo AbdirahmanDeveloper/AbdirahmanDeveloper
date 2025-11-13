@@ -40,16 +40,7 @@ Git | GitHub | VS Code | Postman | Docker | Linux
 ---
 
 ## 🏆 Achievements  
-## 📊 GitHub Stats  
-
-![Abdirahman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdirahmanDeveloper&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdirahmanDeveloper&layout=compact&theme=tokyonight)  
-
----
-![trophy](https://github-profile-trophy.vercel.app/?username=AbdirahmanDeveloper&theme=onedark&column=4)   ## 📈 Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdirahmanDeveloper&theme=tokyo-night)  
-
----
+![trophy](https://github-profile-trophy.vercel.app/?username=AbdirahmanDeveloper&theme=onedark&column=4)  
 
 ---
 
@@ -87,19 +78,3 @@ Git | GitHub | VS Code | Postman | Docker | Linux
 
 > _“Without data, you’re just another person with an opinion.” – W. Edwards Deming_  
 > _“Code is like art — it tells a story about how you think.”_
-
-
-<!--
-**AbdirahmanDeveloper/AbdirahmanDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
