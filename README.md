@@ -40,7 +40,16 @@ Git | GitHub | VS Code | Postman | Docker | Linux
 ---
 
 ## 🏆 Achievements  
-![trophy](https://github-profile-trophy.vercel.app/?username=AbdirahmanDeveloper&theme=onedark&column=4)  
+## 📊 GitHub Stats  
+
+![Abdirahman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdirahmanDeveloper&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdirahmanDeveloper&layout=compact&theme=tokyonight)  
+
+---
+![trophy](https://github-profile-trophy.vercel.app/?username=AbdirahmanDeveloper&theme=onedark&column=4)   ## 📈 Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdirahmanDeveloper&theme=tokyo-night)  
+
+---
 
 ---
 
